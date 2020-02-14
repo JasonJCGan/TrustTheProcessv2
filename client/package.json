@@ -13,7 +13,7 @@
     "react-google-login": "^5.0.4",
     "react-scripts": "3.0.0",
     "react-twitter-auth": "0.0.13",
-    "yarn": "^1.15.2"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
